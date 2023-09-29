@@ -448,6 +448,15 @@ img {
 .skills__react {
   width: 70%;
 }
+.skills__node {
+  width: 80%;
+}
+.skills__express {
+  width: 85%;
+}
+.skills__mongo {
+  width: 80%;
+}
 .skills__firebase {
   width: 60%;
 }
